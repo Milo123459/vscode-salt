@@ -1,2 +1,3 @@
-# vscode-salt
-VSCode extension for Salt
+# vscode-salt README
+
+Being worked on
