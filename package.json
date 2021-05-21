@@ -19,7 +19,7 @@
 				{
 					"id": "salt-sidebar-view",
 					"title": "Salt",
-					"icon": "../assets/salt.svg"
+					"icon": "./assets/salt.svg"
 				}
 			]
 		},
@@ -29,7 +29,7 @@
 					"type": "webview",
 					"id": "salt-sidebar",
 					"name": "Salt",
-					"icon": "../assets/salt.svg",
+					"icon": "./assets/salt.svg",
 					"contextualTitle": "Salt"
 				}
 			]
