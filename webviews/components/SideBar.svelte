@@ -1,10 +1,5 @@
 <script lang="ts">
 </script>
-<div>
-<h1>hi</h1>
-</div>
+<button id="refresh">Refresh tasks</button>
 <style>
-    div {
-        color: blue;
-    }
 </style>

@@ -10,7 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onView:salt-sidebar"
+		"onView:salt-sidebar"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
@@ -51,6 +51,7 @@
 		"@tsconfig/svelte": "^1.0.10",
 		"@types/node": "^15.3.1",
 		"@types/vscode": "^1.56.0",
+		"concurrently": "^6.1.0",
 		"prettier": "^2.3.0",
 		"rollup": "^2.48.0",
 		"rollup-plugin-css-only": "^3.1.0",
@@ -65,5 +66,7 @@
 		"webpack": "^5.37.1",
 		"webpack-cli": "^4.4.0"
 	},
-    "repository": "https://github.com/Milo123459/vscode-salt"
+	"repository": "https://github.com/Milo123459/vscode-salt",
+    "publisher": "milo5",
+    "icon": "assets/salt.png"
 }
